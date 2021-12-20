@@ -1,0 +1,73 @@
+.modal-popup-btn {
+  margin-left: 1px;
+  height: 50px;
+  display: block;
+}
+
+.google-integration-img {
+  width: 175px;
+  height: 80px;
+}
+
+.third-party-component {
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+.share-survey-date-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 20px;
+}
+
+.share-survey-publish-toggle {
+  margin-top: 10px;
+  margin-bottom: auto;
+  background: rgb(242, 244, 252);
+  /* border: 1px solid rgb(216, 220, 235); */
+  padding: 5px 10px;
+  border-radius: 5px;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.share-survey-publish-toggle > .publish-description {
+  font-size: 12px;
+  color: black;
+  padding: 10px;
+}
+
+.publish-button {
+  width: inherit;
+  height: fit-content;
+  display: flex !important;
+  margin: auto !important;
+}
+
+.warning {
+  background-color: #fca311 !important;
+}
+
+.third-party-google-img {
+  display: flex;
+  margin-top: 32px;
+  margin-bottom: 1rem;
+}
+
+.thrid-party-mrl-20 {
+  margin-left: 20px;
+}
+
+.thrid-party-action-w {
+  width: 550px;
+}
+
+.thrid-party-model-btn-margin {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

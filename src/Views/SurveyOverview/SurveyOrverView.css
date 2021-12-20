@@ -1,0 +1,34 @@
+.response-view-chart {
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.question-collapse {
+  cursor: pointer;
+  color: #474747;
+}
+
+.question-collapse-responses-title {
+  text-align: right;
+}
+
+.graphical-view-loader {
+  text-align: center;
+  padding: 18px !important;
+}
+
+.chart-select-dropdown {
+  max-width: 350px;
+}
+
+.chart-response-count {
+  text-align: center;
+  margin: auto;
+}
+
+.expand-button {
+  text-align: right;
+  margin: auto;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,34 @@
+.response-navigation-button {
+  font-family: sans-serif;
+  padding: 10px 30px;
+  background: dodgerblue;
+  border: none;
+  color: white;
+  margin: 5px 10px;
+  outline: none;
+}
+
+.right {
+  border-radius: 0 100px 100px 0;
+}
+
+.left {
+  border-radius: 100px 0 0 100px;
+}
+
+.center {
+  border-radius: 100px;
+}
+
+.response-navigation-button:hover {
+  color: #eee;
+  background-color: rgb(20, 98, 175);
+}
+
+.response-navigation-button:active {
+  background-color: #17a2b8;
+}
+
+.response-navigation-button:focus {
+  outline: 0;
+}

@@ -1,0 +1,96 @@
+{
+  "userData": {
+    "user": {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRoYXJpay5yQHlhaG9vLmNvbSIsImNsaWVudElkIjoiZjJjOTZhMTUtOTE1Yi00YTBlLWFiZjEtNzg4MDlmM2QyOTAyIiwidWlkIjoiNzU2YjZiNTEtY2I3Mi00YTNmLTk5NmUtMzljNzg4YTc4MzcwIiwib3JnYW5pemF0aW9uSUQiOiIzMjEzM2I1Yi0xNmM0LTRkZGEtYTA3Yi0wZGI3YTE4ZmUyMmQiLCJpYXQiOjE2MTcyMDM5NzksImV4cCI6MjQ4MTIwMzk3OX0.EFPbnujt7oq7Klhzdwl0YDi_lZGnbZofT_WB8k4YiKY",
+      "headers": {
+        "x-bconic-account-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRoYXJpay5yQHlhaG9vLmNvbSIsImNsaWVudElkIjoiZjJjOTZhMTUtOTE1Yi00YTBlLWFiZjEtNzg4MDlmM2QyOTAyIiwidWlkIjoiNzU2YjZiNTEtY2I3Mi00YTNmLTk5NmUtMzljNzg4YTc4MzcwIiwib3JnYW5pemF0aW9uSUQiOiIzMjEzM2I1Yi0xNmM0LTRkZGEtYTA3Yi0wZGI3YTE4ZmUyMmQiLCJpYXQiOjE2MTcyMDM5NzksImV4cCI6MjQ4MTIwMzk3OX0.EFPbnujt7oq7Klhzdwl0YDi_lZGnbZofT_WB8k4YiKY",
+        "Content-Type": "application/json"
+      }
+    },
+    "profile": [],
+    "error": ""
+  },
+  "uiData": {
+    "isOpen": [],
+    "isTrigger": [],
+    "defaultPath": "/dashboard",
+    "basename": "/",
+    "layout": "vertical",
+    "preLayout": null,
+    "collapseMenu": false,
+    "layoutType": "menu-light",
+    "navIconColor": false,
+    "headerBackColor": "header-default",
+    "navBackColor": "navbar-default",
+    "navBrandColor": "brand-default",
+    "navBackImage": false,
+    "rtlLayout": false,
+    "navFixedLayout": true,
+    "headerFixedLayout": false,
+    "boxLayout": false,
+    "navDropdownIcon": "style1",
+    "navListIcon": "style1",
+    "navActiveListColor": "active-default",
+    "navListTitleColor": "title-default",
+    "navListTitleHide": false,
+    "configBlock": false,
+    "layout6Background": "linear-gradient(to right, #A445B2 0%, #D41872 52%, #FF0066 100%)",
+    "layout6BackSize": "",
+    "isFullScreen": false
+  },
+  "surveyData": {
+    "surveys": [],
+    "error": "",
+    "surveyPublishedObj": {},
+    "surveyDeleteObj": {},
+    "csvColumns": [],
+    "csvRows": [],
+    "data": {},
+    "chartOptionList": [],
+    "title": "",
+    "description": "",
+    "survey": ""
+  },
+  "summaryData": { "summaryObj": {} },
+
+  "previewSurvey": {
+    "step": 0,
+    "surveyObj": {},
+    "surveyId": "",
+    "questionObjList": [],
+    "textResponseMap": {},
+    "responseList": [],
+    "checkedList": [],
+    "qrCodeSurveyImgUrl": "",
+    "stepCount": 0,
+    "score": 0,
+    "locationDisplayName": null,
+    "locationId": null,
+    "userId": null,
+    "isError": false,
+    "customErrorMsg": null
+  },
+
+  "updateSurveyObj": {
+    "survey": {
+      "surveyId": "",
+      "accountId": "",
+      "title": "",
+      "type": "",
+      "purpose": "",
+      "url": "",
+      "isPublished": "",
+      "startAt": "",
+      "endAt": "",
+      "metadata": {},
+      "orgId": "",
+      "isEnableSplashScr": false,
+      "colorSchema": {
+        "splash_scr": "",
+        "title_font": "",
+        "question_scr": "",
+        "subtitle_font": ""
+      }
+    }
+  }
+}

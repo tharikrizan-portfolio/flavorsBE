@@ -1,0 +1,13 @@
+.rounded-card {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+  z-index: 5;
+
+  .bg {
+    position: absolute;
+    background-size: cover;
+    z-index: -1;
+    border-radius: 5px;
+  }
+}

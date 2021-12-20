@@ -1,0 +1,134 @@
+.vertical-line-card {
+  border-left: 1px solid;
+  color: #d7d7d7;
+  height: 60px;
+  left: 50%;
+  top: 55%;
+}
+
+.horizontal-line-card {
+  width: 85%;
+}
+
+.dashboard-card-statistics {
+  width: 85%;
+  height: 180px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+  box-shadow: 0 -4px 10px rgba(5, 5, 5, 0.08), 0px 10px 10px rgba(5, 5, 5, 0.08);
+}
+
+.create-form-button-table {
+  margin-left: 86.5%;
+  margin-top: -45px;
+}
+
+.survey-image {
+  width: 50px;
+  height: 40px;
+  margin-top: 6px;
+}
+
+.quiz-image {
+  width: 50px;
+  height: 40px;
+  margin-top: 6px;
+}
+
+.create-survey-card {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+  margin-left: 80px;
+  box-shadow: 0 -4px 10px rgba(5, 5, 5, 0.08), 0px 10px 10px rgba(5, 5, 5, 0.08);
+}
+
+.create-quiz-card {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+  margin-left: 120px;
+  box-shadow: 0 -4px 10px rgba(5, 5, 5, 0.08), 0px 10px 10px rgba(5, 5, 5, 0.08);
+}
+
+.form-type-survey {
+  width: 60px;
+  height: 60px;
+  margin: auto;
+}
+
+.form-type-quiz {
+  width: 80px;
+  height: 60px;
+  margin-top: 30px;
+  margin-left: 35%;
+}
+
+.form-survey-heading {
+  font-size: 30px;
+  margin: auto;
+}
+
+.form-survey-text-margin {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.form-quiz-heading {
+  margin-top: 20px;
+  margin-left: 38%;
+  font-size: 30px;
+}
+
+.card-container {
+  display: flex;
+
+  /* flex-flow: row wrap;*/
+
+  justify-content: space-between;
+}
+
+.create-from-card {
+  text-align: center;
+  width: 250px;
+  border: 1px solid;
+  border-color: #bbbbbb;
+  padding-top: 4vh;
+  margin: 0px 20px 30px 20px;
+}
+
+.summary-card-total {
+  font-size: 35px;
+  font-stretch: 2px;
+}
+
+.summary-card-total-section {
+  margin: auto;
+  text-align: center;
+}
+.summary-card-total-label {
+  margin-left: 20px;
+  font-size: 25px;
+  font-variant: all-petite-caps;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.text-uppercase {
+  letter-spacing: 1px;
+}
+
+.badge-success {
+  background-color: #44d07c !important;
+}
+.badge-danger {
+  background-color: #fca311 !important;
+}
+
+
+
